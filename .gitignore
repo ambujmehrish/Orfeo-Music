@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+weights/
+outputs/
+logs/
+data/*
+!data/.gitkeep
